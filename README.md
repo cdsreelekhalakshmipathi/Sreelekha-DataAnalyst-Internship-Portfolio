@@ -1,4 +1,4 @@
-README.md Sreelekha-DataAnalyst-Internship-Portfolio
+whatREADME.md Sreelekha-DataAnalyst-Internship-Portfolio
 My Data Analyst Internship Portfolio
 # Data Analyst Internship Portfolio
 
@@ -26,3 +26,16 @@ Task 2 - Data Cleaning
 Task 3 - Dashboard Development
 
 Task 4 - Data Storytelling
+## Projects
+
+### 1. Bank Analysis & Data Cleaning
+https://github.com/cdsreelekhalakshmipathi/Bank-analysis-cleaned-data-
+
+### 2. Data Analysis & Visualization
+https://github.com/cdsreelekhalakshmipathi/Data-Analysis-and-Visualization
+
+### 3. Data Storytelling & Dashboard Presentation
+https://github.com/cdsreelekhalakshmipathi/apex-planet-datavisualization
+
+### 4. Data Storytelling and Data Visualization
+https://github.com/cdsreelekhalakshmipathi/Data-Storytelling-and-Dats-visualization
